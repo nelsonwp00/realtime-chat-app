@@ -10,4 +10,4 @@
 
  - Front-end: React.js
  - Back-end: Node.js and Express.js
- - Connection tool: Socket.io
+ - Connection tool: [Socket.io](https://socket.io/)
